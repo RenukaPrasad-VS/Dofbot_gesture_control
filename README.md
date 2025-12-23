@@ -25,11 +25,17 @@ The project is structured for **clean architecture**, **real-robot reliability**
 
 dofbot_ws/src
 ├── dofbot_description # URDF, Xacro, meshes, TF
+
 ├── dofbot_moveit_config # MoveIt 2 configuration
+
 ├── dofbot_hw # ros2_control hardware interface
+
 ├── dofbot_vision # RealSense + OpenCV perception
+
 ├── dofbot_pick_place # Motion execution & pick-place logic
+
 ├── dofbot_gesture_control # Gesture-based control (optional)
+
 ├── rs_pointcloud # Custom pointcloud processing
 
 
