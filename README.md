@@ -88,9 +88,4 @@ ros2 run rs_pointcloud rs_pointcloud.py
 ros2 run dofbot_pick_place pick_place_node
 
 
-## 🤝 Contributors
-
-- Renuka Prasad – Core development, ROS 2, MoveIt, vision pipeline  
-- Contributor Name – Feature / Bug fix / Documentation
-
 
