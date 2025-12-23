@@ -70,6 +70,8 @@ https://github.com/RenukaPrasad-VS/Dofbot_gesture_control.git
 colcon build --symlink-install
 source install/setup.bash
 
+
+
 ##🧪 Simulation (Gazebo / Ignition)
 
 Launch the DOFBOT simulation and moveit:
