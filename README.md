@@ -86,3 +86,12 @@ ros2 run rs_pointcloud rs_pointcloud.py
 
 ## For pick and place 
 ros2 run dofbot_pick_place pick_place_node
+
+
+
+## 🤝 Contributors
+
+- Renuka Prasad – Core development, ROS 2, MoveIt, vision pipeline  
+- Prateek H A – Core development, ROS 2, MoveIt, vision pipeline 
+
+
