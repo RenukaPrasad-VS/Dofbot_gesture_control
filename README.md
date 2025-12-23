@@ -56,6 +56,5 @@ dofbot_ws/src
 ### 1️⃣ Clone the Repository
 ```bash
 cd ~/dofbot_ws/src
-git clone https://github.com/<your-username>/<your-repo-name>.git
-
+https://github.com/RenukaPrasad-VS/Dofbot_gesture_control.git
 
