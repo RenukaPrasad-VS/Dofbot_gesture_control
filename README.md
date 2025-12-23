@@ -64,3 +64,23 @@ dofbot_ws/src
 cd ~/dofbot_ws/src
 https://github.com/RenukaPrasad-VS/Dofbot_gesture_control.git
 
+
+##Build the Workspace
+
+colcon build --symlink-install
+source install/setup.bash
+
+##🧪 Simulation (Gazebo / Ignition)
+
+Launch the DOFBOT simulation and moveit:
+
+ros2 launch dofbot_description moveit.launch.py
+
+##For color block detection
+ros2 run dofbot_vision block_tf.py
+
+## For pont cloud 
+ros2 run rs_pointcloud rs_pointcloud.py
+
+## For pick and place 
+ros2 run dofbot_pick_place pick_place_node
